@@ -1,0 +1,26 @@
+.card-container {
+  background-color: #ffffff33;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ffffff33;
+  display: flex;
+  align-items: center;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.card-image {
+  height: 100px;
+  width: 100px;
+}
+.card-name {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: 500;
+  flex-wrap: wrap;
+  width: 200px;
+  text-align: center;
+}

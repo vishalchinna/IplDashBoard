@@ -1,0 +1,38 @@
+.match-card-container {
+  background-color: #0f172a;
+  margin-right: 18px;
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  border-radius: 8px;
+}
+.card-logo {
+  height: 80px;
+  width: 70px;
+  margin-bottom: 8px;
+}
+.team-name {
+  font-family: 'Bree serif';
+  font-size: 13px;
+  font-weight: 500;
+  color: white;
+  width: 120px;
+  text-align: center;
+  padding-bottom: 15px;
+}
+.result {
+  color: white;
+  font-size: 8px;
+  width: 120px;
+  text-align: center;
+  padding-bottom: 12px;
+}
+.status {
+  color: gray;
+  font-family: 'bree serif';
+  font-size: 13px;
+  padding-bottom: 15px;
+}
