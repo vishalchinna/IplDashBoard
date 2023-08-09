@@ -61,7 +61,7 @@ class TeamMatches extends Component {
     return (
       <div className="team-container">
         {isLoading ? (
-          <div data-testid="loader">
+          <div testid="loader">
             <Loader type="Oval" color="#ffffff" height={50} width={50} />
           </div>
         ) : (
